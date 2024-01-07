@@ -3,3 +3,6 @@ A basic automation script for novices learning wireless exploitation and wifi-br
 Tools used ~ proxychains4, airodump-ng, aireplay-ng and reaver.
 
 Environments~ Linux, Kali 
+
+# Usage 
+sudo ./burningskies.sh
